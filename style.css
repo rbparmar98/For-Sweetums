@@ -44,6 +44,12 @@ p {
   font-size: 1.2em;
 }
 
+.responsive-img {
+  width: 53%;
+  height: auto;
+  border-radius: 15px; /* Rounded corners for images */
+}
+
 .container img {
   width: 100%;
   height: auto;
